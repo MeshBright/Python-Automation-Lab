@@ -41,6 +41,17 @@ Rather than complex frameworks, this section focuses on mastering the fundamenta
 * **`Kaggle_Drills/`**: Solutions and refactored code from data science courses and challenges.
 * **`Math_Utils.py`**: Helper functions for engineering calculations (matrices, vectors).
 
+### 4. 🌐 Versatility Proof (JavaScript)
+*Demonstrating logic adaptability and environment setup.*
+
+This project showcases the ability to apply engineering logic within a JavaScript environment, specifically focusing on user input handling and manual calculation priority.
+
+* **`Multi-Operand Calculator`**: A script that manually parses three numbers and two operators. 
+    * **Logic**: Uses a nested decision-matrix to handle arithmetic priority (BODMAS).
+    * **Dependency Management**: Utilizes `npm` and the `prompt-sync` library for CLI-based user interaction.
+    * **Safety**: Implements `if/else` guard clauses to prevent division-by-zero errors.
+    * **[🔗 View Code on GitHub Gist](https://gist.github.com/MeshBright/7520d8de2f79740c0090246409f304e4)**
+
 ---
 
 ## 🛠️ Tech Stack & Concepts
